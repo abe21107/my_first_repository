@@ -1,5 +1,7 @@
 # my_first_repository
 
+![Badge Status](https://img.shields.io/github/license/abe21107/my_first_repository)
+
 初めて作成してみています。テスト。
 
 ## Usage
